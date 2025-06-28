@@ -1,9 +1,11 @@
 👋 Hi, I'm Ojonugwa S. Adama
 
 💻 Software Engineer | Blockchain Developer | Problem-Solver
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 With a background in Graphics, i am a professional Software Developer {Back-End Engineering} with a strong foundation in Data Design and Structure, API Architecture,Design and API implementation.
 With a proven track, I help Tech Startups, SME's solve build software applications while delivering exceptional customer service.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Currently working as a Software Engineer, I enjoy building scalable and efficient systems using:
 
@@ -12,6 +14,7 @@ Currently working as a Software Engineer, I enjoy building scalable and efficien
 🧠 JavaScript (Ecmascript,Common), SQL, MongoDB
 🔧 REST APIs, MVC, Microservice, Web Development
 🛠️ Git & GitHub for version control
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🚀 Projects
@@ -23,12 +26,15 @@ Craftly is a web application designed to help artisans market their goods and ma
 It provides a platform where artisans can showcase their products, connect with potential buyers, and manage their businesses efficiently.
 
 🔗 GuessNode-Game-Application Programming Interface
+
 A live guessing game that lets you and your friends track results, scores, and answers in real-time.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📫 Connect With Me
 
 📧 Email: evojonugwa@gmail.com
 🌍 Portfolio: 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⚡ Fun Fact
 I’m passionate about continuous learning and always looking to join dynamic teams that value innovation, user satisfaction, and clean code.
