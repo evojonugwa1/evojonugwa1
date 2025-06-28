@@ -5,7 +5,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 With a background in Graphics, i am a professional Software Developer {Back-End Engineering} with a strong foundation in Data Design and Structure, API Architecture,Design and API implementation.
 
-With a proven track, I help Tech Startups, SME's solve build software applications while delivering exceptional customer service.
+With a proven track, I help Tech Startups, I design, develop and implement software solutions with intuitive problem-solving skills, I am committed to delivering high-quality code that exceeds expectations with honing my skills in professional environment,I can use my skills and knowledge to contribute to team and make a positive impact on the organization.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Currently working as a Software Engineer, I enjoy building scalable and efficient systems using:
